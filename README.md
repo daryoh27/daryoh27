@@ -75,7 +75,7 @@
 
 ## Contact
 
-- **LinkedIn: https://www.linkedin.com/in/dada-a-867a70293
+- **LinkedIn: https://www.linkedin.com/in/dada-o-867a70293
 - **Email: dadaaliu40@gmail.com 
 
 
