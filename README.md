@@ -58,7 +58,7 @@
 |--------|-------------|------|
 | 01-Home-lab | Building a multi-VM cybersecurity lab | [View Repo](#) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
-| 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
+| 03-AWS-Deployment | Configuring and Hardening cloud console in AWS | [View Repo](#) |
 | 04-Security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
 | 05-Vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
 | 06-Network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
