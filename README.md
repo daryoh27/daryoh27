@@ -57,8 +57,8 @@
 | Folder | Description | Link |
 |--------|-------------|------|
 | 01-Home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/daryoh27/Setting-up-a-Multi-VMs--Cybersecurity-Lab) |
-| 02-ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
-| 03-AWS-Deployment | Configuring and Hardening cloud console in AWS | [View Repo](#) |
+| 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/daryoh27/Identity-and-Access-Management-IAM-Project) |
+| 03-AWS-Deployment | Configuring and Hardening cloud console in AWS | [View Repo](https://github.com/daryoh27/AWS-IAM-Cloud-Security) |
 | 04-Security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/daryoh27/Security-Policy-Development) |
 | 05-Vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
 | 06-Network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
