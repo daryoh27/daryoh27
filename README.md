@@ -64,7 +64,7 @@
 | 06-Network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-Risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-Mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/daryoh27/MITRE-threat-hunt) |
-| 09-Phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
+| 09-Phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/daryoh27/Phishing-simulation) |
 | 10-Phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
 | 11-Linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
