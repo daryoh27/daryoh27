@@ -69,7 +69,7 @@
 | 11-Linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 13-Malware-analysis | Static and dynamic malware triage | [View Repo](#) |
-| 14-Threat Model Analysis | STRIDE methodology | [View Repo](#) |
+| 14-Threat Model Analysis | STRIDE methodology | [View Repo](https://github.com/daryoh27/Threat-Modelling/tree/main) |
 
 ---
 
