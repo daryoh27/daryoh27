@@ -61,7 +61,7 @@
 | 03-AWS-Deployment | Configuring and Hardening cloud console in AWS | [View Repo](https://github.com/daryoh27/AWS-IAM-Cloud-Security) |
 | 04-Security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/daryoh27/Security-Policy-Development) |
 | 05-Vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/daryoh27/Active---Passive---Reconnaissance---Web-Application---End-point) |
-| 06-Network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
+| 06-Network-monitoring | Security Onion and Splunk dashboards | [View Repo](https://github.com/daryoh27/Network-Monitoring-Splunk) |
 | 07-Risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-Mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/daryoh27/MITRE-threat-hunt) |
 | 09-Phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/daryoh27/Phishing-simulation) |
