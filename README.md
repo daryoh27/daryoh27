@@ -66,7 +66,7 @@
 | 08-Mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/daryoh27/MITRE-threat-hunt) |
 | 09-Phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/daryoh27/Phishing-simulation) |
 | 10-Phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/daryoh27/Phishing-Email-Forensics) |
-| 11-Linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
+| 11-Linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/daryoh27/Linux-Permissions-Audit) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 13-Malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 | 14-Threat Model Analysis | STRIDE methodology | [View Repo](https://github.com/daryoh27/Threat-Modelling/tree/main) |
