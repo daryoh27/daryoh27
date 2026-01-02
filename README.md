@@ -68,7 +68,7 @@
 | 10-Phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/daryoh27/Phishing-Email-Forensics) |
 | 11-Linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/daryoh27/Linux-Permissions-Audit) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](https://github.com/daryoh27/SQLI-DDoS-Simulation) |
-| 13-Malware-analysis | Static and dynamic malware triage | [View Repo](#) |
+| 13-Malware-analysis | Static and dynamic malware triage | [View Repo](https://github.com/daryoh27/Malware-Analysis) |
 | 14-Threat Model Analysis | STRIDE methodology | [View Repo](https://github.com/daryoh27/Threat-Modelling/tree/main) |
 
 ---
