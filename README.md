@@ -70,6 +70,7 @@
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](https://github.com/daryoh27/SQLI-DDoS-Simulation) |
 | 13-Malware-analysis | Static and dynamic malware triage | [View Repo](https://github.com/daryoh27/Malware-Analysis) |
 | 14-Threat Model Analysis | STRIDE methodology | [View Repo](https://github.com/daryoh27/Threat-Modelling/tree/main) |
+| 15-PROWLER | Cloud Security | [View Repo](#) |
 
 ---
 
